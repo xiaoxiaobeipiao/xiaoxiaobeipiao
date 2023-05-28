@@ -6,7 +6,7 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br /> 关于作者：java开发工程师
-    <br /> 联系我：weixin33633124
+    <br /> 联系我：微信公众号：程序员新视界
     <br />🍉 Take a look at my stats  🌱
     <br /> 
   </samp>
